@@ -19,6 +19,12 @@
 * fs
 * path
 * uuid
+## Web site
+* This link will bring you to the deployed functional website for this project running on Heroku
+* https://note-taker-1400.herokuapp.com/
+<img width="1276" alt="Screen Shot 2022-02-15 at 11 11 48 AM" src="https://user-images.githubusercontent.com/94582549/154132229-3dfb09b9-56c9-47be-b015-bd8b1e1ea33b.png">
+
+<img width="1275" alt="Screen Shot 2022-02-15 at 11 11 59 AM" src="https://user-images.githubusercontent.com/94582549/154132286-d96a485b-fba9-4293-afa3-e3c49db714d1.png">
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)            
 ## How to Contribute 
