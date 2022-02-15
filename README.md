@@ -11,7 +11,7 @@
 ## Test 
 * The project does not have any automated tests at the moment. Please feel free to contribute and provide them!
 ## Usage
-* Link to video showing how the application is used: [link]()    
+* Link to video showing how the application is used: [link](https://drive.google.com/file/d/19fd2MbWW1oiJyqNihcAibU64JwGY6Z0k/view?usp=sharing)    
 ## Credits
 * In this application, we utilize
 * node.js 
