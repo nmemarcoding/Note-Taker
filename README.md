@@ -31,4 +31,4 @@
 ## How to Contribute 
 * This project welcomes your contributions! Please fork this repository and submit pull requests with any contributions. Further information can be found in the questions section below.
 ## Questions
-* For further information, please check out my github repository at https://github.com/nmemarcoding/Note-Taker/tree/main, or by emailing nmemarcoding@gmail.com
+* For further information, please check out my github repository at https://github.com/nmemarcoding/Note-Taker-1400, or by emailing nmemarcoding@gmail.com
