@@ -13,20 +13,6 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 
-function filterByQuery(query, db) {
-    let filteredResults = db;
-    //See comments below for origin of queries
-    if (query.noteTitle) {
-        filteredResults = filteredResults.filter(
-            (db) => (db.noteTitle = query.noteTitle)
-        );
-    }
-    if (query.id) {
-        filteredResults = filteredResults.filter((db) => (db.id = query.id));
-    }
-    return filteredResults;
-}
-
 app.get('/api/notes', (res, req) => {
     //READ 'db.json' file
     let data = JSON.parse(fs.readFileSync('./Develop/db/db.json', 'utf8'));
